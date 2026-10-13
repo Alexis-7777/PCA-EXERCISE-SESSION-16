@@ -140,9 +140,4 @@ On Windows, activate with `.venv\Scripts\activate`. The requirements record the 
 | `results/` | Metrics, country assignments, profiles, missingness, outliers and sensitivity results |
 | `PRESENTATION.md` | Approximately 2–3-minute speaking script with notebook display cues |
 
-## Submit to GitHub
 
-Add your group members' names to the notebook. Create a repository in your GitHub account, unzip this package, and upload the **contents** of `un-country-analysis/`, including the notebook, README, CSV, code and both output folders. Submit the repository URL, not the professor's raw CSV URL. This package has not been published to a GitHub account.
-
-
-Dataset SHA-256: `f315e7b6c37c2bcbdfcc696a944d431f2f06e3d3cb51b21f5a3c9e646e23faf6`.
