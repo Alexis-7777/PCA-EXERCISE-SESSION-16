@@ -127,17 +127,3 @@ python analysis.py
 
 On Windows, activate with `.venv\Scripts\activate`. The requirements record the versions used for the submitted analysis. Colab normally supplies the core analysis packages; its versions may produce tiny numerical differences. `analysis.py` reproduces the calculations, charts and result tables. All of that code is also included directly in the notebook, which can run independently.
 
-## Repository contents
-
-| File/folder | Purpose |
-|---|---|
-| `UN_PCA_Clustering.ipynb` | Complete executed notebook, explanations, six answers and presentation script |
-| `UN.csv` | Unmodified dataset snapshot |
-| `README.md` | Methods, all six research answers, interpretation and instructions |
-| `analysis.py` | Standalone reproduction of notebook calculations |
-| `requirements.txt` | Executed analysis package versions |
-| `figures/` | Seven exported charts |
-| `results/` | Metrics, country assignments, profiles, missingness, outliers and sensitivity results |
-| `PRESENTATION.md` | Approximately 2–3-minute speaking script with notebook display cues |
-
-
